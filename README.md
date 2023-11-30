@@ -1,3 +1,5 @@
+My discord - FrancisWalsh#0718
+
 # lottery.aleo
 
 ## Run Guide
